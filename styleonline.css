@@ -1,0 +1,194 @@
+
+body {
+    background-color: #f5f5f5;
+    font-family: Arial;
+    margin: 0;
+    color: #333333;
+}
+
+/* Header */
+.header {
+    background-color: #222222;
+    color: white;
+    padding: 15px 30px;
+}
+
+.header h1 {
+    display: inline-block;
+    margin-right: 100px;
+}
+
+.header span {
+    color: #d6a76a;
+}
+
+.menu {
+    display: inline-block;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+.menu a:hover {
+    color: #d6a76a;
+}
+
+/* Banner */
+.banner {
+    background-color: #e8e1d8;
+    padding: 40px;
+}
+
+.banner-text {
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 20px;
+}
+
+.judul-kecil {
+    color: #9b7548;
+    letter-spacing: 3px;
+}
+
+.banner h2 {
+    font-size: 35px;
+    color: #222222;
+}
+
+.banner p {
+    line-height: 25px;
+}
+
+.banner-gambar {
+    width: 45%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.banner-gambar img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.tombol {
+    background-color: #222222;
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.tombol:hover {
+    background-color: #9b7548;
+}
+
+/* Kategori */
+.kategori {
+    text-align: center;
+    padding: 25px;
+}
+
+.kategori-box {
+    background-color: white;
+    border: 1px solid #dddddd;
+    width: 150px;
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+}
+
+/* Produk */
+.produk {
+    text-align: center;
+    padding: 30px;
+}
+
+.produk h2 {
+    font-size: 28px;
+}
+
+.subjudul {
+    color: #777777;
+    margin-bottom: 30px;
+}
+
+.barang {
+    background-color: white;
+    border: 1px solid #dddddd;
+    width: 220px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.barang img {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+}
+
+.barang h3 {
+    text-align: left;
+}
+
+.harga {
+    color: #9b7548;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.keterangan {
+    color: #777777;
+    font-size: 14px;
+    text-align: left;
+}
+
+.beli {
+    background-color: #222222;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+}
+
+.beli:hover {
+    background-color: #9b7548;
+}
+
+/* Tentang */
+.tentang {
+    background-color: #e8e1d8;
+    text-align: center;
+    padding: 40px;
+}
+
+.tentang p {
+    line-height: 25px;
+}
+
+/* Kontak */
+.kontak {
+    text-align: center;
+    padding: 30px;
+}
+
+/* Footer */
+.footer {
+    background-color: #222222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer span {
+    color: #d6a76a;
+}
